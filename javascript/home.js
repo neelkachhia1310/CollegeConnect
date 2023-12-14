@@ -4,7 +4,7 @@ document.addEventListener("DOMContentLoaded", function () {
   getRandomQuote();
 
   const imageUrls = [
-    "Images/hero-image1.jpg",
+    "images/hero-image1.jpg",
     "images/hero-image2.jpg",
     "images/hero-image3.jpg",
   ];
